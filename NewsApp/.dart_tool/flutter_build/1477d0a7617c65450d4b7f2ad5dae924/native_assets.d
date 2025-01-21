@@ -1,0 +1,1 @@
+ E:\\root\\Programming\\mobile-development\\News_app\\.dart_tool\\flutter_build\\1477d0a7617c65450d4b7f2ad5dae924\\native_assets.yaml: 

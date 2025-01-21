@@ -1,0 +1,1 @@
+ E:\\root\\Programming\\mobile\ development\\test_emulator_on_vscode\\.dart_tool\\flutter_build\\d016f0e63b5a8ab282a0e60061f2d979\\native_assets.yaml: 
