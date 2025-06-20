@@ -16,15 +16,4 @@ class Bookly extends StatelessWidget {
   }
 }
 
-class SplashView extends StatelessWidget {
-  const SplashView({Key? key}) : super(key: key);
 
-  @override
-  Widget build(BuildContext context) {
-    return const  Scaffold(
-      body: Center(
-        child: Text('Welcome to Bookly!'),
-      ),
-    );
-  }
-}
